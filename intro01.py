@@ -1,1 +1,1 @@
-print("Go Cougars!")
+print("Go Cougars!, wowwwww!")
