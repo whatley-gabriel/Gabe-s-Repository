@@ -1,0 +1,2 @@
+letterGrade = "A+"
+print(letterGrade)
