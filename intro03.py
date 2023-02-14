@@ -1,2 +1,0 @@
-letterGrade = "A+"
-print(letterGrade)
